@@ -1,0 +1,7 @@
+This is new file in repo
+some
+things
+don't 
+happen
+right
+But this file ends here
